@@ -39,7 +39,7 @@ function App() {
         />
 
         <button className='button' onClick={searchCEP}>
-          <FiSearch size={20} color='#fff'/>
+          <FiSearch size={20} color='#fff' className='IconFi'/>
         </button>
 
       </div>

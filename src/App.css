@@ -89,3 +89,40 @@
 .result span{
   margin-bottom: 6px;
 }
+
+@media (min-width: 800px){
+  .header h1{
+    font-size: 90px; 
+  }
+
+  .inputBox{
+    width: 480px;
+  }
+
+  .inputBox input{
+    font-size: 28px;
+  }
+
+  .inputBox input::placeholder{
+    font-size: 25px;
+  }
+
+  .IconFi{
+    height: 40px;
+    width: 35px;
+  }
+
+  .result{
+    width: 400px;
+    height: 220px;
+  }
+
+  .result h3{
+    font-size: 38px;
+  }
+
+  .result span{
+    font-size: 24px;
+  }
+
+}
