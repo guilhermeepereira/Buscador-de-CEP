@@ -126,3 +126,14 @@
   }
 
 }
+
+@media(max-width: 428px){
+  .header h1{
+    font-size: 45px;
+  }
+
+  .inputBox{
+    width: 300px;
+    height: 50px;
+  }
+}
